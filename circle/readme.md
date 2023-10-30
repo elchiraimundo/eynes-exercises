@@ -25,3 +25,7 @@
 
 7. **Representación `__str__(self)`:** 
     - Si imprimimos el objeto Circle, se debe mostrar una representación amigable para el usuario.
+
+---------
+
+**Solo uso la libreria math para usar el numero pi**
