@@ -11,3 +11,5 @@
 2. **Función `sort_list(dicts)`:** Esta función tiene como parámetro de entrada a `dicts`, que es la lista generada por `simple_list()`. Deberá retornarse la misma lista pero con los diccionarios ordenados por edad en orden ascendente.
 
 ---
+
+** Uso la libreria random**
