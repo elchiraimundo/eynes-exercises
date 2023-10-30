@@ -11,5 +11,6 @@ def simple_list():
         lista_de_diccionarios.append(diccionario)
     return lista_de_diccionarios
 
-def sort_list():
-    pass
+# Ordeno por edad en orden ascendente
+def sort_list(dicts):
+    return sorted(dicts, key=lambda x: x["age"])
